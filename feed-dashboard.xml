@@ -1,10 +1,11 @@
-<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://cutexsoda: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@raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Sun, 17 May 2026 23:54:21 +0800</lastBuildDate><item><title>📅 2026年05月17日 周日 · 4项待办</title><link>https://cutexsoda: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@raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月17日 周日
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Mon, 18 May 2026 00:05:41 GMT</lastBuildDate><item><title>📅 2026年05月18日 周一 · 4项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月18日 周一
 
 📋 待办
-   测试腾讯 Agent Memory 插件效果——让小苏打回答一个'按说不该记得但之前提过'的事 (截止 05/24)
-   跟图图确认周六AI学习时间1 (截止 04/17)
-   📊 生成图图5月阅读统计PDF（提交用） (截止 05/31)
-   【工作】北太振寰：用vibecoding生成MATLAB/Simulink测试文件 → 北太软件打开验证兼容性
+  测试腾讯 Agent Memory 插件效果——让小苏打回答一个'按说不该记得但之前提过'的事 (截止 05/24)
+  跟图图确认周六AI学习时间1 (截止 04/17)
+  📊 生成图图5月阅读统计PDF（提交用） (截止 05/31)
+  【工作】北太振寰：用vibecoding生成MATLAB/Simulink测试文件 → 北太软件打开验证兼容性
 
 📆 今日日历
   ⚠️ 日历未配置
@@ -12,4 +13,4 @@
 🌤 天气
   (暂无)
 
-🕐 更新于 23:54</description><pubDate>Sun, 17 May 2026 23:54:21 +0800</pubDate></item></channel></rss>
+🕐 更新于 00:05</description><pubDate>Mon, 18 May 2026 00:05:41 GMT</pubDate></item></channel></rss>
