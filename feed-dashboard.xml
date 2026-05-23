@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Sat, 23 May 2026 16:55:48 GMT</lastBuildDate><item><title>📅 2026年05月23日 周六 · 7项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月23日 周六
+<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Sat, 23 May 2026 17:00:55 GMT</lastBuildDate><item><title>📅 2026年05月23日 周六 · 6项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月23日 周六
 
 📋 待办
    【工作】北太振寰：用vibecoding生成MATLAB/Simulink测试文件 → 北太软件打开验证兼容性
@@ -8,7 +8,6 @@
    📊 生成图图5月阅读统计PDF（提交用） (截止 05/31)
    测试腾讯 Agent Memory 插件效果——让小苏打回答一个'按说不该记得但之前提过'的事 (截止 05/24)
    北太振寰三方机构选聘 (截止 05/22)
-   更新 GitHub token，恢复小苏打 RSS 文章书架同步 (截止 05/22)
 
 📆 今日日历
   ⚠️ 日历未配置
@@ -16,4 +15,4 @@
 🌤 天气
   (暂无)
 
-🕐 更新于 16:55</description><pubDate>Sat, 23 May 2026 16:55:48 GMT</pubDate></item></channel></rss>
+🕐 更新于 17:00</description><pubDate>Sat, 23 May 2026 17:00:55 GMT</pubDate></item></channel></rss>
