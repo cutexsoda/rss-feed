@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Mon, 25 May 2026 12:15:35 GMT</lastBuildDate><item><title>📅 2026年05月25日 周一 · 5项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月25日 周一
+<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Mon, 25 May 2026 12:20:43 GMT</lastBuildDate><item><title>📅 2026年05月25日 周一 · 6项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年05月25日 周一
 
 📋 待办
    【工作】北太振寰：用vibecoding生成MATLAB/Simulink测试文件 → 北太软件打开验证兼容性
@@ -7,6 +7,7 @@
    北太振寰基本户协调（ICBC）
    📊 生成图图5月阅读统计PDF（提交用） (截止 05/31)
    北太振寰三方机构选聘 (截止 05/25)
+  🟡 继续发票官方查验（人工验证码）
 
 📆 今日日历
   ⚠️ 日历未配置
@@ -14,4 +15,4 @@
 🌤 天气
   (暂无)
 
-🕐 更新于 12:15</description><pubDate>Mon, 25 May 2026 12:15:35 GMT</pubDate></item></channel></rss>
+🕐 更新于 12:20</description><pubDate>Mon, 25 May 2026 12:20:43 GMT</pubDate></item></channel></rss>
