@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Sun, 28 Jun 2026 02:46:05 GMT</lastBuildDate><item><title>📅 2026年06月28日 周日 · 3项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年06月28日 周日
+<rss version="2.0"><channel><title>📋 小苏打 · 今日看板</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><description>每日待办+日历+天气</description><ttl>15</ttl><lastBuildDate>Mon, 29 Jun 2026 08:42:00 GMT</lastBuildDate><item><title>📅 2026年06月29日 周一 · 3项待办</title><link>https://raw.githubusercontent.com/cutexsoda/rss-feed/main/feed-dashboard.xml</link><guid>dashboard-today</guid><description>📅 2026年06月29日 周一
 
 📋 待办
    睿魔创新待沟通事项
-   参加图图二年级下期家长会（带邀请函入校） (截止 07/02)
    继续运行 Agent Mail CLI 授权和验证 (截止 06/29)
+   参加图图二年级下期家长会（带邀请函入校） (截止 07/02)
 
 📆 今日日历
   ⚠️ 日历未配置
@@ -12,4 +12,4 @@
 🌤 天气
   (暂无)
 
-🕐 更新于 02:46</description><pubDate>Sun, 28 Jun 2026 02:46:05 GMT</pubDate></item></channel></rss>
+🕐 更新于 08:42</description><pubDate>Mon, 29 Jun 2026 08:42:00 GMT</pubDate></item></channel></rss>
